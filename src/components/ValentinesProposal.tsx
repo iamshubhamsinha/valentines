@@ -132,7 +132,17 @@ export default function ValentinesProposal() {
             <h2
               className={`text-5xl font-semibold mb-8 ${playfairDisplay.className}`}
             >
-              Will you be my Valentine... today, tomorrow - Always, Amisha?
+              Amisha,
+              Out of all the random variables in this universe,
+              you are my favorite constant.
+
+              You’ve seen my chaos, my ambition, my silence, my overthinking —
+              and somehow stayed.
+
+              I don’t just love you.
+              I choose you. Every single day.
+
+              Will you be my forever?
             </h2>
             <Image
               src="/sad_hamster.png"
@@ -176,7 +186,7 @@ export default function ValentinesProposal() {
             exit={{ opacity: 0 }}
           >
             I love you! 💕 
-            <p className="text-sm mt-4">See you soon, love! 💌</p>
+            <p className="text-sm mt-4">💌 Best decision of your life. (Mine already was.) 💌</p>
             <Image
               src="/hamster_jumping.gif"
               alt="Hamster Feliz"
